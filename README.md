@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aPhillips-CompE
+- 👋 Hi, I’m Andrew Phillips
 - 👀 I’m interested in Computers, Programming
 - 🌱 I’m currently studying Computer Engineering
 - 💞️ I’m looking to collaborate on a project
